@@ -1,1 +1,5 @@
+HEAD
 Это изменение в ветке main
+
+Это изменение в ветке conflict-branch
+ conflict-branch
